@@ -64,7 +64,7 @@ Second phase
 ![Screenshot3](https://github.com/Thomasv9897/Eraser-/blob/main/Screenshot%20(15).png?raw=true)
 Third phase
 # Demo Video
-(https://drive.google.com/file/d/1Rum_ot3OOxIIjSfWOuGGH9Upr-BhMJwv/view?usp=drive_link)
+(https://drive.google.com/file/d/1Rum_ot3OOxIIjSfWOuGGH9Upr-BhMJwv/view?usp=sharing)
 ## Team Contributions
 - Thomas Varghese:
 
