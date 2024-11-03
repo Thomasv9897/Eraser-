@@ -54,7 +54,7 @@ python main.py
 
 ### Project Documentation
 
-# Screenshots (Add at least 3)
+# Screenshots
 ![Screenshot1](https://github.com/Thomasv9897/Eraser-/blob/main/Screenshot%20(13).png?raw=true)
 First phase
 
