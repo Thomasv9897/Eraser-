@@ -1,7 +1,8 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # [Eraser] 🎯
-
+# Demo Video
+(https://drive.google.com/file/d/1Rum_ot3OOxIIjSfWOuGGH9Upr-BhMJwv/view?usp=sharing)
 
 ## Basic Details
 ### Team Name: Apex
@@ -71,7 +72,7 @@ Third phase
 Designed core architecture
 Implemented module management system
 Developed error handling framework
--Alestin Joseph:
+- Alestin Joseph:
 
 Created file manipulation utilities
 Implemented execution tracking
